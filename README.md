@@ -1,7 +1,12 @@
 <div align="center">
    <img src="https://www.alura.com.br/artigos/assets/react-conheca-novidades-versao-18-react/react-conheca-novidades-versao-18-react.png" height="190"/>
-   <img src="https://tailwindcss.com/#gh-dark-mode-only" height="190"/>
-   <h3>Feedback-Widget</h3>
+   <a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank">
+    <img src="./.github/logo-light.svg" alt="Tailwind CSS" width="350" height="70">
+   </a>
+    <a href="https://tailwindcss.com/#gh-dark-mode-only" target="_blank">
+    <img src="./.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
+   </a>
+   <h2>Feedback-Widget</h2>
    <h3>Esse projeto é um widget que pode ser usado em aplicações web e mobile para receber feedback de usuários.</h3>
 </div>
 <br/>
